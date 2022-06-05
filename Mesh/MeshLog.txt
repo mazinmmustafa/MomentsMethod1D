@@ -1,0 +1,1337 @@
+Segment 1 is adjacent to 2
+Segment 1 is adjacent to 48
+Segment 1 is adjacent to 83
+Segment 1 is adjacent to 139
+Segment 1 is adjacent to 195
+Segment 1 is adjacent to 251
+Segment 1 is adjacent to 307
+Segment 1 is adjacent to 363
+Segment 2 is adjacent to 1
+Segment 2 is adjacent to 3
+Segment 3 is adjacent to 2
+Segment 3 is adjacent to 4
+Segment 4 is adjacent to 3
+Segment 4 is adjacent to 5
+Segment 5 is adjacent to 4
+Segment 5 is adjacent to 6
+Segment 6 is adjacent to 5
+Segment 6 is adjacent to 7
+Segment 7 is adjacent to 6
+Segment 7 is adjacent to 8
+Segment 8 is adjacent to 7
+Segment 8 is adjacent to 9
+Segment 9 is adjacent to 8
+Segment 9 is adjacent to 10
+Segment 10 is adjacent to 9
+Segment 10 is adjacent to 11
+Segment 10 is adjacent to 55
+Segment 10 is adjacent to 111
+Segment 10 is adjacent to 167
+Segment 10 is adjacent to 223
+Segment 10 is adjacent to 279
+Segment 10 is adjacent to 335
+Segment 11 is adjacent to 10
+Segment 11 is adjacent to 12
+Segment 11 is adjacent to 55
+Segment 11 is adjacent to 111
+Segment 11 is adjacent to 167
+Segment 11 is adjacent to 223
+Segment 11 is adjacent to 279
+Segment 11 is adjacent to 335
+Segment 12 is adjacent to 11
+Segment 12 is adjacent to 13
+Segment 13 is adjacent to 12
+Segment 13 is adjacent to 14
+Segment 14 is adjacent to 13
+Segment 14 is adjacent to 15
+Segment 15 is adjacent to 14
+Segment 15 is adjacent to 16
+Segment 16 is adjacent to 15
+Segment 16 is adjacent to 17
+Segment 17 is adjacent to 16
+Segment 17 is adjacent to 18
+Segment 18 is adjacent to 17
+Segment 18 is adjacent to 19
+Segment 19 is adjacent to 18
+Segment 19 is adjacent to 20
+Segment 20 is adjacent to 19
+Segment 20 is adjacent to 21
+Segment 21 is adjacent to 20
+Segment 21 is adjacent to 22
+Segment 22 is adjacent to 21
+Segment 22 is adjacent to 23
+Segment 23 is adjacent to 22
+Segment 23 is adjacent to 24
+Segment 24 is adjacent to 23
+Segment 24 is adjacent to 25
+Segment 25 is adjacent to 24
+Segment 25 is adjacent to 26
+Segment 26 is adjacent to 25
+Segment 26 is adjacent to 27
+Segment 27 is adjacent to 26
+Segment 27 is adjacent to 28
+Segment 28 is adjacent to 27
+Segment 28 is adjacent to 29
+Segment 29 is adjacent to 28
+Segment 29 is adjacent to 30
+Segment 30 is adjacent to 29
+Segment 30 is adjacent to 31
+Segment 31 is adjacent to 30
+Segment 31 is adjacent to 32
+Segment 32 is adjacent to 31
+Segment 32 is adjacent to 82
+Segment 32 is adjacent to 138
+Segment 32 is adjacent to 194
+Segment 32 is adjacent to 250
+Segment 32 is adjacent to 306
+Segment 32 is adjacent to 362
+Segment 33 is adjacent to 34
+Segment 33 is adjacent to 54
+Segment 34 is adjacent to 33
+Segment 34 is adjacent to 35
+Segment 35 is adjacent to 34
+Segment 35 is adjacent to 36
+Segment 36 is adjacent to 35
+Segment 36 is adjacent to 37
+Segment 37 is adjacent to 36
+Segment 37 is adjacent to 38
+Segment 38 is adjacent to 37
+Segment 38 is adjacent to 39
+Segment 39 is adjacent to 38
+Segment 39 is adjacent to 40
+Segment 40 is adjacent to 39
+Segment 40 is adjacent to 41
+Segment 41 is adjacent to 40
+Segment 41 is adjacent to 42
+Segment 42 is adjacent to 41
+Segment 42 is adjacent to 43
+Segment 43 is adjacent to 42
+Segment 43 is adjacent to 44
+Segment 44 is adjacent to 43
+Segment 44 is adjacent to 45
+Segment 45 is adjacent to 44
+Segment 45 is adjacent to 46
+Segment 46 is adjacent to 45
+Segment 46 is adjacent to 47
+Segment 47 is adjacent to 46
+Segment 47 is adjacent to 48
+Segment 48 is adjacent to 1
+Segment 48 is adjacent to 47
+Segment 48 is adjacent to 83
+Segment 48 is adjacent to 139
+Segment 48 is adjacent to 195
+Segment 48 is adjacent to 251
+Segment 48 is adjacent to 307
+Segment 48 is adjacent to 363
+Segment 49 is adjacent to 50
+Segment 49 is adjacent to 110
+Segment 49 is adjacent to 166
+Segment 49 is adjacent to 222
+Segment 49 is adjacent to 278
+Segment 49 is adjacent to 334
+Segment 49 is adjacent to 390
+Segment 50 is adjacent to 49
+Segment 50 is adjacent to 51
+Segment 51 is adjacent to 50
+Segment 51 is adjacent to 52
+Segment 52 is adjacent to 51
+Segment 52 is adjacent to 53
+Segment 53 is adjacent to 52
+Segment 53 is adjacent to 54
+Segment 54 is adjacent to 33
+Segment 54 is adjacent to 53
+Segment 55 is adjacent to 10
+Segment 55 is adjacent to 11
+Segment 55 is adjacent to 56
+Segment 55 is adjacent to 111
+Segment 55 is adjacent to 167
+Segment 55 is adjacent to 223
+Segment 55 is adjacent to 279
+Segment 55 is adjacent to 335
+Segment 56 is adjacent to 55
+Segment 56 is adjacent to 57
+Segment 57 is adjacent to 56
+Segment 57 is adjacent to 58
+Segment 58 is adjacent to 57
+Segment 58 is adjacent to 59
+Segment 59 is adjacent to 58
+Segment 59 is adjacent to 60
+Segment 60 is adjacent to 59
+Segment 60 is adjacent to 61
+Segment 61 is adjacent to 60
+Segment 61 is adjacent to 62
+Segment 62 is adjacent to 61
+Segment 62 is adjacent to 63
+Segment 63 is adjacent to 62
+Segment 63 is adjacent to 64
+Segment 64 is adjacent to 63
+Segment 64 is adjacent to 65
+Segment 65 is adjacent to 64
+Segment 65 is adjacent to 66
+Segment 66 is adjacent to 65
+Segment 66 is adjacent to 67
+Segment 67 is adjacent to 66
+Segment 67 is adjacent to 68
+Segment 68 is adjacent to 67
+Segment 68 is adjacent to 69
+Segment 69 is adjacent to 68
+Segment 69 is adjacent to 70
+Segment 70 is adjacent to 69
+Segment 70 is adjacent to 71
+Segment 71 is adjacent to 70
+Segment 71 is adjacent to 72
+Segment 72 is adjacent to 71
+Segment 72 is adjacent to 73
+Segment 73 is adjacent to 72
+Segment 73 is adjacent to 74
+Segment 74 is adjacent to 73
+Segment 74 is adjacent to 75
+Segment 75 is adjacent to 74
+Segment 75 is adjacent to 76
+Segment 76 is adjacent to 75
+Segment 76 is adjacent to 77
+Segment 77 is adjacent to 76
+Segment 77 is adjacent to 78
+Segment 78 is adjacent to 77
+Segment 78 is adjacent to 79
+Segment 79 is adjacent to 78
+Segment 79 is adjacent to 80
+Segment 80 is adjacent to 79
+Segment 80 is adjacent to 81
+Segment 81 is adjacent to 80
+Segment 81 is adjacent to 82
+Segment 82 is adjacent to 32
+Segment 82 is adjacent to 81
+Segment 82 is adjacent to 138
+Segment 82 is adjacent to 194
+Segment 82 is adjacent to 250
+Segment 82 is adjacent to 306
+Segment 82 is adjacent to 362
+Segment 83 is adjacent to 1
+Segment 83 is adjacent to 48
+Segment 83 is adjacent to 84
+Segment 83 is adjacent to 139
+Segment 83 is adjacent to 195
+Segment 83 is adjacent to 251
+Segment 83 is adjacent to 307
+Segment 83 is adjacent to 363
+Segment 84 is adjacent to 83
+Segment 84 is adjacent to 85
+Segment 85 is adjacent to 84
+Segment 85 is adjacent to 86
+Segment 86 is adjacent to 85
+Segment 86 is adjacent to 87
+Segment 87 is adjacent to 86
+Segment 87 is adjacent to 88
+Segment 88 is adjacent to 87
+Segment 88 is adjacent to 89
+Segment 89 is adjacent to 88
+Segment 89 is adjacent to 90
+Segment 90 is adjacent to 89
+Segment 90 is adjacent to 91
+Segment 91 is adjacent to 90
+Segment 91 is adjacent to 92
+Segment 92 is adjacent to 91
+Segment 92 is adjacent to 93
+Segment 93 is adjacent to 92
+Segment 93 is adjacent to 94
+Segment 94 is adjacent to 93
+Segment 94 is adjacent to 95
+Segment 95 is adjacent to 94
+Segment 95 is adjacent to 96
+Segment 96 is adjacent to 95
+Segment 96 is adjacent to 97
+Segment 97 is adjacent to 96
+Segment 97 is adjacent to 98
+Segment 98 is adjacent to 97
+Segment 98 is adjacent to 99
+Segment 99 is adjacent to 98
+Segment 99 is adjacent to 100
+Segment 100 is adjacent to 99
+Segment 100 is adjacent to 101
+Segment 101 is adjacent to 100
+Segment 101 is adjacent to 102
+Segment 102 is adjacent to 101
+Segment 102 is adjacent to 103
+Segment 103 is adjacent to 102
+Segment 103 is adjacent to 104
+Segment 104 is adjacent to 103
+Segment 104 is adjacent to 105
+Segment 105 is adjacent to 104
+Segment 105 is adjacent to 106
+Segment 106 is adjacent to 105
+Segment 106 is adjacent to 107
+Segment 107 is adjacent to 106
+Segment 107 is adjacent to 108
+Segment 108 is adjacent to 107
+Segment 108 is adjacent to 109
+Segment 109 is adjacent to 108
+Segment 109 is adjacent to 110
+Segment 110 is adjacent to 49
+Segment 110 is adjacent to 109
+Segment 110 is adjacent to 166
+Segment 110 is adjacent to 222
+Segment 110 is adjacent to 278
+Segment 110 is adjacent to 334
+Segment 110 is adjacent to 390
+Segment 111 is adjacent to 10
+Segment 111 is adjacent to 11
+Segment 111 is adjacent to 55
+Segment 111 is adjacent to 112
+Segment 111 is adjacent to 167
+Segment 111 is adjacent to 223
+Segment 111 is adjacent to 279
+Segment 111 is adjacent to 335
+Segment 112 is adjacent to 111
+Segment 112 is adjacent to 113
+Segment 113 is adjacent to 112
+Segment 113 is adjacent to 114
+Segment 114 is adjacent to 113
+Segment 114 is adjacent to 115
+Segment 115 is adjacent to 114
+Segment 115 is adjacent to 116
+Segment 116 is adjacent to 115
+Segment 116 is adjacent to 117
+Segment 117 is adjacent to 116
+Segment 117 is adjacent to 118
+Segment 118 is adjacent to 117
+Segment 118 is adjacent to 119
+Segment 119 is adjacent to 118
+Segment 119 is adjacent to 120
+Segment 120 is adjacent to 119
+Segment 120 is adjacent to 121
+Segment 121 is adjacent to 120
+Segment 121 is adjacent to 122
+Segment 122 is adjacent to 121
+Segment 122 is adjacent to 123
+Segment 123 is adjacent to 122
+Segment 123 is adjacent to 124
+Segment 124 is adjacent to 123
+Segment 124 is adjacent to 125
+Segment 125 is adjacent to 124
+Segment 125 is adjacent to 126
+Segment 126 is adjacent to 125
+Segment 126 is adjacent to 127
+Segment 127 is adjacent to 126
+Segment 127 is adjacent to 128
+Segment 128 is adjacent to 127
+Segment 128 is adjacent to 129
+Segment 129 is adjacent to 128
+Segment 129 is adjacent to 130
+Segment 130 is adjacent to 129
+Segment 130 is adjacent to 131
+Segment 131 is adjacent to 130
+Segment 131 is adjacent to 132
+Segment 132 is adjacent to 131
+Segment 132 is adjacent to 133
+Segment 133 is adjacent to 132
+Segment 133 is adjacent to 134
+Segment 134 is adjacent to 133
+Segment 134 is adjacent to 135
+Segment 135 is adjacent to 134
+Segment 135 is adjacent to 136
+Segment 136 is adjacent to 135
+Segment 136 is adjacent to 137
+Segment 137 is adjacent to 136
+Segment 137 is adjacent to 138
+Segment 138 is adjacent to 32
+Segment 138 is adjacent to 82
+Segment 138 is adjacent to 137
+Segment 138 is adjacent to 194
+Segment 138 is adjacent to 250
+Segment 138 is adjacent to 306
+Segment 138 is adjacent to 362
+Segment 139 is adjacent to 1
+Segment 139 is adjacent to 48
+Segment 139 is adjacent to 83
+Segment 139 is adjacent to 140
+Segment 139 is adjacent to 195
+Segment 139 is adjacent to 251
+Segment 139 is adjacent to 307
+Segment 139 is adjacent to 363
+Segment 140 is adjacent to 139
+Segment 140 is adjacent to 141
+Segment 141 is adjacent to 140
+Segment 141 is adjacent to 142
+Segment 142 is adjacent to 141
+Segment 142 is adjacent to 143
+Segment 143 is adjacent to 142
+Segment 143 is adjacent to 144
+Segment 144 is adjacent to 143
+Segment 144 is adjacent to 145
+Segment 145 is adjacent to 144
+Segment 145 is adjacent to 146
+Segment 146 is adjacent to 145
+Segment 146 is adjacent to 147
+Segment 147 is adjacent to 146
+Segment 147 is adjacent to 148
+Segment 148 is adjacent to 147
+Segment 148 is adjacent to 149
+Segment 149 is adjacent to 148
+Segment 149 is adjacent to 150
+Segment 150 is adjacent to 149
+Segment 150 is adjacent to 151
+Segment 151 is adjacent to 150
+Segment 151 is adjacent to 152
+Segment 152 is adjacent to 151
+Segment 152 is adjacent to 153
+Segment 153 is adjacent to 152
+Segment 153 is adjacent to 154
+Segment 154 is adjacent to 153
+Segment 154 is adjacent to 155
+Segment 155 is adjacent to 154
+Segment 155 is adjacent to 156
+Segment 156 is adjacent to 155
+Segment 156 is adjacent to 157
+Segment 157 is adjacent to 156
+Segment 157 is adjacent to 158
+Segment 158 is adjacent to 157
+Segment 158 is adjacent to 159
+Segment 159 is adjacent to 158
+Segment 159 is adjacent to 160
+Segment 160 is adjacent to 159
+Segment 160 is adjacent to 161
+Segment 161 is adjacent to 160
+Segment 161 is adjacent to 162
+Segment 162 is adjacent to 161
+Segment 162 is adjacent to 163
+Segment 163 is adjacent to 162
+Segment 163 is adjacent to 164
+Segment 164 is adjacent to 163
+Segment 164 is adjacent to 165
+Segment 165 is adjacent to 164
+Segment 165 is adjacent to 166
+Segment 166 is adjacent to 49
+Segment 166 is adjacent to 110
+Segment 166 is adjacent to 165
+Segment 166 is adjacent to 222
+Segment 166 is adjacent to 278
+Segment 166 is adjacent to 334
+Segment 166 is adjacent to 390
+Segment 167 is adjacent to 10
+Segment 167 is adjacent to 11
+Segment 167 is adjacent to 55
+Segment 167 is adjacent to 111
+Segment 167 is adjacent to 168
+Segment 167 is adjacent to 223
+Segment 167 is adjacent to 279
+Segment 167 is adjacent to 335
+Segment 168 is adjacent to 167
+Segment 168 is adjacent to 169
+Segment 169 is adjacent to 168
+Segment 169 is adjacent to 170
+Segment 170 is adjacent to 169
+Segment 170 is adjacent to 171
+Segment 171 is adjacent to 170
+Segment 171 is adjacent to 172
+Segment 172 is adjacent to 171
+Segment 172 is adjacent to 173
+Segment 173 is adjacent to 172
+Segment 173 is adjacent to 174
+Segment 174 is adjacent to 173
+Segment 174 is adjacent to 175
+Segment 175 is adjacent to 174
+Segment 175 is adjacent to 176
+Segment 176 is adjacent to 175
+Segment 176 is adjacent to 177
+Segment 177 is adjacent to 176
+Segment 177 is adjacent to 178
+Segment 178 is adjacent to 177
+Segment 178 is adjacent to 179
+Segment 179 is adjacent to 178
+Segment 179 is adjacent to 180
+Segment 180 is adjacent to 179
+Segment 180 is adjacent to 181
+Segment 181 is adjacent to 180
+Segment 181 is adjacent to 182
+Segment 182 is adjacent to 181
+Segment 182 is adjacent to 183
+Segment 183 is adjacent to 182
+Segment 183 is adjacent to 184
+Segment 184 is adjacent to 183
+Segment 184 is adjacent to 185
+Segment 185 is adjacent to 184
+Segment 185 is adjacent to 186
+Segment 186 is adjacent to 185
+Segment 186 is adjacent to 187
+Segment 187 is adjacent to 186
+Segment 187 is adjacent to 188
+Segment 188 is adjacent to 187
+Segment 188 is adjacent to 189
+Segment 189 is adjacent to 188
+Segment 189 is adjacent to 190
+Segment 190 is adjacent to 189
+Segment 190 is adjacent to 191
+Segment 191 is adjacent to 190
+Segment 191 is adjacent to 192
+Segment 192 is adjacent to 191
+Segment 192 is adjacent to 193
+Segment 193 is adjacent to 192
+Segment 193 is adjacent to 194
+Segment 194 is adjacent to 32
+Segment 194 is adjacent to 82
+Segment 194 is adjacent to 138
+Segment 194 is adjacent to 193
+Segment 194 is adjacent to 250
+Segment 194 is adjacent to 306
+Segment 194 is adjacent to 362
+Segment 195 is adjacent to 1
+Segment 195 is adjacent to 48
+Segment 195 is adjacent to 83
+Segment 195 is adjacent to 139
+Segment 195 is adjacent to 196
+Segment 195 is adjacent to 251
+Segment 195 is adjacent to 307
+Segment 195 is adjacent to 363
+Segment 196 is adjacent to 195
+Segment 196 is adjacent to 197
+Segment 197 is adjacent to 196
+Segment 197 is adjacent to 198
+Segment 198 is adjacent to 197
+Segment 198 is adjacent to 199
+Segment 199 is adjacent to 198
+Segment 199 is adjacent to 200
+Segment 200 is adjacent to 199
+Segment 200 is adjacent to 201
+Segment 201 is adjacent to 200
+Segment 201 is adjacent to 202
+Segment 202 is adjacent to 201
+Segment 202 is adjacent to 203
+Segment 203 is adjacent to 202
+Segment 203 is adjacent to 204
+Segment 204 is adjacent to 203
+Segment 204 is adjacent to 205
+Segment 205 is adjacent to 204
+Segment 205 is adjacent to 206
+Segment 206 is adjacent to 205
+Segment 206 is adjacent to 207
+Segment 207 is adjacent to 206
+Segment 207 is adjacent to 208
+Segment 208 is adjacent to 207
+Segment 208 is adjacent to 209
+Segment 209 is adjacent to 208
+Segment 209 is adjacent to 210
+Segment 210 is adjacent to 209
+Segment 210 is adjacent to 211
+Segment 211 is adjacent to 210
+Segment 211 is adjacent to 212
+Segment 212 is adjacent to 211
+Segment 212 is adjacent to 213
+Segment 213 is adjacent to 212
+Segment 213 is adjacent to 214
+Segment 214 is adjacent to 213
+Segment 214 is adjacent to 215
+Segment 215 is adjacent to 214
+Segment 215 is adjacent to 216
+Segment 216 is adjacent to 215
+Segment 216 is adjacent to 217
+Segment 217 is adjacent to 216
+Segment 217 is adjacent to 218
+Segment 218 is adjacent to 217
+Segment 218 is adjacent to 219
+Segment 219 is adjacent to 218
+Segment 219 is adjacent to 220
+Segment 220 is adjacent to 219
+Segment 220 is adjacent to 221
+Segment 221 is adjacent to 220
+Segment 221 is adjacent to 222
+Segment 222 is adjacent to 49
+Segment 222 is adjacent to 110
+Segment 222 is adjacent to 166
+Segment 222 is adjacent to 221
+Segment 222 is adjacent to 278
+Segment 222 is adjacent to 334
+Segment 222 is adjacent to 390
+Segment 223 is adjacent to 10
+Segment 223 is adjacent to 11
+Segment 223 is adjacent to 55
+Segment 223 is adjacent to 111
+Segment 223 is adjacent to 167
+Segment 223 is adjacent to 224
+Segment 223 is adjacent to 279
+Segment 223 is adjacent to 335
+Segment 224 is adjacent to 223
+Segment 224 is adjacent to 225
+Segment 225 is adjacent to 224
+Segment 225 is adjacent to 226
+Segment 226 is adjacent to 225
+Segment 226 is adjacent to 227
+Segment 227 is adjacent to 226
+Segment 227 is adjacent to 228
+Segment 228 is adjacent to 227
+Segment 228 is adjacent to 229
+Segment 229 is adjacent to 228
+Segment 229 is adjacent to 230
+Segment 230 is adjacent to 229
+Segment 230 is adjacent to 231
+Segment 231 is adjacent to 230
+Segment 231 is adjacent to 232
+Segment 232 is adjacent to 231
+Segment 232 is adjacent to 233
+Segment 233 is adjacent to 232
+Segment 233 is adjacent to 234
+Segment 234 is adjacent to 233
+Segment 234 is adjacent to 235
+Segment 235 is adjacent to 234
+Segment 235 is adjacent to 236
+Segment 236 is adjacent to 235
+Segment 236 is adjacent to 237
+Segment 237 is adjacent to 236
+Segment 237 is adjacent to 238
+Segment 238 is adjacent to 237
+Segment 238 is adjacent to 239
+Segment 239 is adjacent to 238
+Segment 239 is adjacent to 240
+Segment 240 is adjacent to 239
+Segment 240 is adjacent to 241
+Segment 241 is adjacent to 240
+Segment 241 is adjacent to 242
+Segment 242 is adjacent to 241
+Segment 242 is adjacent to 243
+Segment 243 is adjacent to 242
+Segment 243 is adjacent to 244
+Segment 244 is adjacent to 243
+Segment 244 is adjacent to 245
+Segment 245 is adjacent to 244
+Segment 245 is adjacent to 246
+Segment 246 is adjacent to 245
+Segment 246 is adjacent to 247
+Segment 247 is adjacent to 246
+Segment 247 is adjacent to 248
+Segment 248 is adjacent to 247
+Segment 248 is adjacent to 249
+Segment 249 is adjacent to 248
+Segment 249 is adjacent to 250
+Segment 250 is adjacent to 32
+Segment 250 is adjacent to 82
+Segment 250 is adjacent to 138
+Segment 250 is adjacent to 194
+Segment 250 is adjacent to 249
+Segment 250 is adjacent to 306
+Segment 250 is adjacent to 362
+Segment 251 is adjacent to 1
+Segment 251 is adjacent to 48
+Segment 251 is adjacent to 83
+Segment 251 is adjacent to 139
+Segment 251 is adjacent to 195
+Segment 251 is adjacent to 252
+Segment 251 is adjacent to 307
+Segment 251 is adjacent to 363
+Segment 252 is adjacent to 251
+Segment 252 is adjacent to 253
+Segment 253 is adjacent to 252
+Segment 253 is adjacent to 254
+Segment 254 is adjacent to 253
+Segment 254 is adjacent to 255
+Segment 255 is adjacent to 254
+Segment 255 is adjacent to 256
+Segment 256 is adjacent to 255
+Segment 256 is adjacent to 257
+Segment 257 is adjacent to 256
+Segment 257 is adjacent to 258
+Segment 258 is adjacent to 257
+Segment 258 is adjacent to 259
+Segment 259 is adjacent to 258
+Segment 259 is adjacent to 260
+Segment 260 is adjacent to 259
+Segment 260 is adjacent to 261
+Segment 261 is adjacent to 260
+Segment 261 is adjacent to 262
+Segment 262 is adjacent to 261
+Segment 262 is adjacent to 263
+Segment 263 is adjacent to 262
+Segment 263 is adjacent to 264
+Segment 264 is adjacent to 263
+Segment 264 is adjacent to 265
+Segment 265 is adjacent to 264
+Segment 265 is adjacent to 266
+Segment 266 is adjacent to 265
+Segment 266 is adjacent to 267
+Segment 267 is adjacent to 266
+Segment 267 is adjacent to 268
+Segment 268 is adjacent to 267
+Segment 268 is adjacent to 269
+Segment 269 is adjacent to 268
+Segment 269 is adjacent to 270
+Segment 270 is adjacent to 269
+Segment 270 is adjacent to 271
+Segment 271 is adjacent to 270
+Segment 271 is adjacent to 272
+Segment 272 is adjacent to 271
+Segment 272 is adjacent to 273
+Segment 273 is adjacent to 272
+Segment 273 is adjacent to 274
+Segment 274 is adjacent to 273
+Segment 274 is adjacent to 275
+Segment 275 is adjacent to 274
+Segment 275 is adjacent to 276
+Segment 276 is adjacent to 275
+Segment 276 is adjacent to 277
+Segment 277 is adjacent to 276
+Segment 277 is adjacent to 278
+Segment 278 is adjacent to 49
+Segment 278 is adjacent to 110
+Segment 278 is adjacent to 166
+Segment 278 is adjacent to 222
+Segment 278 is adjacent to 277
+Segment 278 is adjacent to 334
+Segment 278 is adjacent to 390
+Segment 279 is adjacent to 10
+Segment 279 is adjacent to 11
+Segment 279 is adjacent to 55
+Segment 279 is adjacent to 111
+Segment 279 is adjacent to 167
+Segment 279 is adjacent to 223
+Segment 279 is adjacent to 280
+Segment 279 is adjacent to 335
+Segment 280 is adjacent to 279
+Segment 280 is adjacent to 281
+Segment 281 is adjacent to 280
+Segment 281 is adjacent to 282
+Segment 282 is adjacent to 281
+Segment 282 is adjacent to 283
+Segment 283 is adjacent to 282
+Segment 283 is adjacent to 284
+Segment 284 is adjacent to 283
+Segment 284 is adjacent to 285
+Segment 285 is adjacent to 284
+Segment 285 is adjacent to 286
+Segment 286 is adjacent to 285
+Segment 286 is adjacent to 287
+Segment 287 is adjacent to 286
+Segment 287 is adjacent to 288
+Segment 288 is adjacent to 287
+Segment 288 is adjacent to 289
+Segment 289 is adjacent to 288
+Segment 289 is adjacent to 290
+Segment 290 is adjacent to 289
+Segment 290 is adjacent to 291
+Segment 291 is adjacent to 290
+Segment 291 is adjacent to 292
+Segment 292 is adjacent to 291
+Segment 292 is adjacent to 293
+Segment 293 is adjacent to 292
+Segment 293 is adjacent to 294
+Segment 294 is adjacent to 293
+Segment 294 is adjacent to 295
+Segment 295 is adjacent to 294
+Segment 295 is adjacent to 296
+Segment 296 is adjacent to 295
+Segment 296 is adjacent to 297
+Segment 297 is adjacent to 296
+Segment 297 is adjacent to 298
+Segment 298 is adjacent to 297
+Segment 298 is adjacent to 299
+Segment 299 is adjacent to 298
+Segment 299 is adjacent to 300
+Segment 300 is adjacent to 299
+Segment 300 is adjacent to 301
+Segment 301 is adjacent to 300
+Segment 301 is adjacent to 302
+Segment 302 is adjacent to 301
+Segment 302 is adjacent to 303
+Segment 303 is adjacent to 302
+Segment 303 is adjacent to 304
+Segment 304 is adjacent to 303
+Segment 304 is adjacent to 305
+Segment 305 is adjacent to 304
+Segment 305 is adjacent to 306
+Segment 306 is adjacent to 32
+Segment 306 is adjacent to 82
+Segment 306 is adjacent to 138
+Segment 306 is adjacent to 194
+Segment 306 is adjacent to 250
+Segment 306 is adjacent to 305
+Segment 306 is adjacent to 362
+Segment 307 is adjacent to 1
+Segment 307 is adjacent to 48
+Segment 307 is adjacent to 83
+Segment 307 is adjacent to 139
+Segment 307 is adjacent to 195
+Segment 307 is adjacent to 251
+Segment 307 is adjacent to 308
+Segment 307 is adjacent to 363
+Segment 308 is adjacent to 307
+Segment 308 is adjacent to 309
+Segment 309 is adjacent to 308
+Segment 309 is adjacent to 310
+Segment 310 is adjacent to 309
+Segment 310 is adjacent to 311
+Segment 311 is adjacent to 310
+Segment 311 is adjacent to 312
+Segment 312 is adjacent to 311
+Segment 312 is adjacent to 313
+Segment 313 is adjacent to 312
+Segment 313 is adjacent to 314
+Segment 314 is adjacent to 313
+Segment 314 is adjacent to 315
+Segment 315 is adjacent to 314
+Segment 315 is adjacent to 316
+Segment 316 is adjacent to 315
+Segment 316 is adjacent to 317
+Segment 317 is adjacent to 316
+Segment 317 is adjacent to 318
+Segment 318 is adjacent to 317
+Segment 318 is adjacent to 319
+Segment 319 is adjacent to 318
+Segment 319 is adjacent to 320
+Segment 320 is adjacent to 319
+Segment 320 is adjacent to 321
+Segment 321 is adjacent to 320
+Segment 321 is adjacent to 322
+Segment 322 is adjacent to 321
+Segment 322 is adjacent to 323
+Segment 323 is adjacent to 322
+Segment 323 is adjacent to 324
+Segment 324 is adjacent to 323
+Segment 324 is adjacent to 325
+Segment 325 is adjacent to 324
+Segment 325 is adjacent to 326
+Segment 326 is adjacent to 325
+Segment 326 is adjacent to 327
+Segment 327 is adjacent to 326
+Segment 327 is adjacent to 328
+Segment 328 is adjacent to 327
+Segment 328 is adjacent to 329
+Segment 329 is adjacent to 328
+Segment 329 is adjacent to 330
+Segment 330 is adjacent to 329
+Segment 330 is adjacent to 331
+Segment 331 is adjacent to 330
+Segment 331 is adjacent to 332
+Segment 332 is adjacent to 331
+Segment 332 is adjacent to 333
+Segment 333 is adjacent to 332
+Segment 333 is adjacent to 334
+Segment 334 is adjacent to 49
+Segment 334 is adjacent to 110
+Segment 334 is adjacent to 166
+Segment 334 is adjacent to 222
+Segment 334 is adjacent to 278
+Segment 334 is adjacent to 333
+Segment 334 is adjacent to 390
+Segment 335 is adjacent to 10
+Segment 335 is adjacent to 11
+Segment 335 is adjacent to 55
+Segment 335 is adjacent to 111
+Segment 335 is adjacent to 167
+Segment 335 is adjacent to 223
+Segment 335 is adjacent to 279
+Segment 335 is adjacent to 336
+Segment 336 is adjacent to 335
+Segment 336 is adjacent to 337
+Segment 337 is adjacent to 336
+Segment 337 is adjacent to 338
+Segment 338 is adjacent to 337
+Segment 338 is adjacent to 339
+Segment 339 is adjacent to 338
+Segment 339 is adjacent to 340
+Segment 340 is adjacent to 339
+Segment 340 is adjacent to 341
+Segment 341 is adjacent to 340
+Segment 341 is adjacent to 342
+Segment 342 is adjacent to 341
+Segment 342 is adjacent to 343
+Segment 343 is adjacent to 342
+Segment 343 is adjacent to 344
+Segment 344 is adjacent to 343
+Segment 344 is adjacent to 345
+Segment 345 is adjacent to 344
+Segment 345 is adjacent to 346
+Segment 346 is adjacent to 345
+Segment 346 is adjacent to 347
+Segment 347 is adjacent to 346
+Segment 347 is adjacent to 348
+Segment 348 is adjacent to 347
+Segment 348 is adjacent to 349
+Segment 349 is adjacent to 348
+Segment 349 is adjacent to 350
+Segment 350 is adjacent to 349
+Segment 350 is adjacent to 351
+Segment 351 is adjacent to 350
+Segment 351 is adjacent to 352
+Segment 352 is adjacent to 351
+Segment 352 is adjacent to 353
+Segment 353 is adjacent to 352
+Segment 353 is adjacent to 354
+Segment 354 is adjacent to 353
+Segment 354 is adjacent to 355
+Segment 355 is adjacent to 354
+Segment 355 is adjacent to 356
+Segment 356 is adjacent to 355
+Segment 356 is adjacent to 357
+Segment 357 is adjacent to 356
+Segment 357 is adjacent to 358
+Segment 358 is adjacent to 357
+Segment 358 is adjacent to 359
+Segment 359 is adjacent to 358
+Segment 359 is adjacent to 360
+Segment 360 is adjacent to 359
+Segment 360 is adjacent to 361
+Segment 361 is adjacent to 360
+Segment 361 is adjacent to 362
+Segment 362 is adjacent to 32
+Segment 362 is adjacent to 82
+Segment 362 is adjacent to 138
+Segment 362 is adjacent to 194
+Segment 362 is adjacent to 250
+Segment 362 is adjacent to 306
+Segment 362 is adjacent to 361
+Segment 363 is adjacent to 1
+Segment 363 is adjacent to 48
+Segment 363 is adjacent to 83
+Segment 363 is adjacent to 139
+Segment 363 is adjacent to 195
+Segment 363 is adjacent to 251
+Segment 363 is adjacent to 307
+Segment 363 is adjacent to 364
+Segment 364 is adjacent to 363
+Segment 364 is adjacent to 365
+Segment 365 is adjacent to 364
+Segment 365 is adjacent to 366
+Segment 366 is adjacent to 365
+Segment 366 is adjacent to 367
+Segment 367 is adjacent to 366
+Segment 367 is adjacent to 368
+Segment 368 is adjacent to 367
+Segment 368 is adjacent to 369
+Segment 369 is adjacent to 368
+Segment 369 is adjacent to 370
+Segment 370 is adjacent to 369
+Segment 370 is adjacent to 371
+Segment 371 is adjacent to 370
+Segment 371 is adjacent to 372
+Segment 372 is adjacent to 371
+Segment 372 is adjacent to 373
+Segment 373 is adjacent to 372
+Segment 373 is adjacent to 374
+Segment 374 is adjacent to 373
+Segment 374 is adjacent to 375
+Segment 375 is adjacent to 374
+Segment 375 is adjacent to 376
+Segment 376 is adjacent to 375
+Segment 376 is adjacent to 377
+Segment 377 is adjacent to 376
+Segment 377 is adjacent to 378
+Segment 378 is adjacent to 377
+Segment 378 is adjacent to 379
+Segment 379 is adjacent to 378
+Segment 379 is adjacent to 380
+Segment 380 is adjacent to 379
+Segment 380 is adjacent to 381
+Segment 381 is adjacent to 380
+Segment 381 is adjacent to 382
+Segment 382 is adjacent to 381
+Segment 382 is adjacent to 383
+Segment 383 is adjacent to 382
+Segment 383 is adjacent to 384
+Segment 384 is adjacent to 383
+Segment 384 is adjacent to 385
+Segment 385 is adjacent to 384
+Segment 385 is adjacent to 386
+Segment 386 is adjacent to 385
+Segment 386 is adjacent to 387
+Segment 387 is adjacent to 386
+Segment 387 is adjacent to 388
+Segment 388 is adjacent to 387
+Segment 388 is adjacent to 389
+Segment 389 is adjacent to 388
+Segment 389 is adjacent to 390
+Segment 390 is adjacent to 49
+Segment 390 is adjacent to 110
+Segment 390 is adjacent to 166
+Segment 390 is adjacent to 222
+Segment 390 is adjacent to 278
+Segment 390 is adjacent to 334
+Segment 390 is adjacent to 389
+1->2->3->4->5->6->7->8->9->10->11->12->13->14->15->16->17->18->19->20->21->22->23->24->25->26->27->28->29->30->31->32->82->81->80->79->78->77->76->75->74->73->72->71->70->69->68->67->66->65->64->63->62->61->60->59->58->57->56->55->10->111->11->55->111->112->113->114->115->116->117->118->119->120->121->122->123->124->125->126->127->128->129->130->131->132->133->134->135->136->137->138->32->194->82->138->194->193->192->191->190->189->188->187->186->185->184->183->182->181->180->179->178->177->176->175->174->173->172->171->170->169->168->167->10->223->11->167->55->223->111->167->223->224->225->226->227->228->229->230->231->232->233->234->235->236->237->238->239->240->241->242->243->244->245->246->247->248->249->250->32->306->82->250->138->306->194->250->306->305->304->303->302->301->300->299->298->297->296->295->294->293->292->291->290->289->288->287->286->285->284->283->282->281->280->279->10->335->11->279->55->335->111->279->167->335->223->279->335->336->337->338->339->340->341->342->343->344->345->346->347->348->349->350->351->352->353->354->355->356->357->358->359->360->361->362->32->
+2->
+3->
+4->
+5->
+6->
+7->
+8->
+9->
+10->
+11->
+12->
+13->
+14->
+15->
+16->
+17->
+18->
+19->
+20->
+21->
+22->
+23->
+24->
+25->
+26->
+27->
+28->
+29->
+30->
+31->
+32->
+33->34->35->36->37->38->39->40->41->42->43->44->45->46->47->48->1->83->48->139->1->195->48->251->1->307->48->363->1->
+34->
+35->
+36->
+37->
+38->
+39->
+40->
+41->
+42->
+43->
+44->
+45->
+46->
+47->
+48->
+49->50->51->52->53->54->33->
+50->
+51->
+52->
+53->
+54->
+55->
+56->
+57->
+58->
+59->
+60->
+61->
+62->
+63->
+64->
+65->
+66->
+67->
+68->
+69->
+70->
+71->
+72->
+73->
+74->
+75->
+76->
+77->
+78->
+79->
+80->
+81->
+82->362->138->
+83->84->85->86->87->88->89->90->91->92->93->94->95->96->97->98->99->100->101->102->103->104->105->106->107->108->109->110->49->166->110->222->49->278->110->334->49->390->110->
+84->
+85->
+86->
+87->
+88->
+89->
+90->
+91->
+92->
+93->
+94->
+95->
+96->
+97->
+98->
+99->
+100->
+101->
+102->
+103->
+104->
+105->
+106->
+107->
+108->
+109->
+110->
+111->
+112->
+113->
+114->
+115->
+116->
+117->
+118->
+119->
+120->
+121->
+122->
+123->
+124->
+125->
+126->
+127->
+128->
+129->
+130->
+131->
+132->
+133->
+134->
+135->
+136->
+137->
+138->
+139->83->195->139->140->141->142->143->144->145->146->147->148->149->150->151->152->153->154->155->156->157->158->159->160->161->162->163->164->165->166->222->221->220->219->218->217->216->215->214->213->212->211->210->209->208->207->206->205->204->203->202->201->200->199->198->197->196->195->251->83->307->139->251->252->253->254->255->256->257->258->259->260->261->262->263->264->265->266->267->268->269->270->271->272->273->274->275->276->277->278->166->334->222->278->334->333->332->331->330->329->328->327->326->325->324->323->322->321->320->319->318->317->316->315->314->313->312->311->310->309->308->307->195->363->83->
+140->
+141->
+142->
+143->
+144->
+145->
+146->
+147->
+148->
+149->
+150->
+151->
+152->
+153->
+154->
+155->
+156->
+157->
+158->
+159->
+160->
+161->
+162->
+163->
+164->
+165->
+166->390->222->
+167->
+168->
+169->
+170->
+171->
+172->
+173->
+174->
+175->
+176->
+177->
+178->
+179->
+180->
+181->
+182->
+183->
+184->
+185->
+186->
+187->
+188->
+189->
+190->
+191->
+192->
+193->
+194->362->250->
+195->
+196->
+197->
+198->
+199->
+200->
+201->
+202->
+203->
+204->
+205->
+206->
+207->
+208->
+209->
+210->
+211->
+212->
+213->
+214->
+215->
+216->
+217->
+218->
+219->
+220->
+221->
+222->
+223->
+224->
+225->
+226->
+227->
+228->
+229->
+230->
+231->
+232->
+233->
+234->
+235->
+236->
+237->
+238->
+239->
+240->
+241->
+242->
+243->
+244->
+245->
+246->
+247->
+248->
+249->
+250->
+251->307->363->139->
+252->
+253->
+254->
+255->
+256->
+257->
+258->
+259->
+260->
+261->
+262->
+263->
+264->
+265->
+266->
+267->
+268->
+269->
+270->
+271->
+272->
+273->
+274->
+275->
+276->
+277->
+278->390->334->
+279->
+280->
+281->
+282->
+283->
+284->
+285->
+286->
+287->
+288->
+289->
+290->
+291->
+292->
+293->
+294->
+295->
+296->
+297->
+298->
+299->
+300->
+301->
+302->
+303->
+304->
+305->
+306->362->
+307->
+308->
+309->
+310->
+311->
+312->
+313->
+314->
+315->
+316->
+317->
+318->
+319->
+320->
+321->
+322->
+323->
+324->
+325->
+326->
+327->
+328->
+329->
+330->
+331->
+332->
+333->
+334->
+335->
+336->
+337->
+338->
+339->
+340->
+341->
+342->
+343->
+344->
+345->
+346->
+347->
+348->
+349->
+350->
+351->
+352->
+353->
+354->
+355->
+356->
+357->
+358->
+359->
+360->
+361->
+362->
+363->251->
+364->363->
+365->364->
+366->365->
+367->366->
+368->367->
+369->368->
+370->369->
+371->370->
+372->371->
+373->372->
+374->373->
+375->374->
+376->375->
+377->376->
+378->377->
+379->378->
+380->379->
+381->380->
+382->381->
+383->382->
+384->383->
+385->384->
+386->385->
+387->386->
+388->387->
+389->388->
+390->389->
+Total of 473 iterations were used

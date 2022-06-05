@@ -1,0 +1,6 @@
+set terminal wxt
+set xrange [-90:90]
+set yrange [-30:10]
+set xlabel("theta [deg]")
+set ylabel("RCS [dB]")
+plot "DataRCS.dat" using 1:3 with lines lw 2 lc 16 

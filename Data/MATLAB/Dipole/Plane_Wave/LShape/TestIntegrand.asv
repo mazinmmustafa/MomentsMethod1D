@@ -1,0 +1,115 @@
+close all; clear; clc;
+%%
+j       =   sqrt(-1);
+k       =   2*pi;
+L       =   1;
+a       =   0;
+R       =   @(l,l_) sqrt((l-l_).^2+a^2);
+I_pp   	=   @(l,l_) (1-l/L).*(1-l_/L).*exp(-j*k*R(l,l_))./R(l,l_);
+I_pm   	=   @(l,l_) (1-l/L).*(1+l_/L).*exp(-j*k*R(l,l_))./R(l,l_);
+I_mp   	=   @(l,l_) (1+l/L).*(1-l_/L).*exp(-j*k*R(l,l_))./R(l,l_);
+I_mm   	=   @(l,l_) (1+l/L).*(1+l_/L).*exp(-j*k*R(l,l_))./R(l,l_);
+%%
+Ns      =   4e2;
+figure()
+hold on
+[lp,l_p]  =   meshgrid(linspace(0,L,Ns),linspace(0,L,Ns));
+pcolor(lp,l_p,abs(I_pp(lp,l_p)))
+[lp,l_m]  =   meshgrid(linspace(0,L,Ns),linspace(-L,0,Ns));
+pcolor(lp,l_m,abs(I_pm(lp,l_m)))
+[lm,l_p]  =   meshgrid(linspace(-L,0,Ns),linspace(0,L,Ns));
+pcolor(lm,l_p,abs(I_mp(lm,l_p)))
+[lm,l_m]  =   meshgrid(linspace(-L,0,Ns),linspace(-L,0,Ns));
+pcolor(lm,l_m,abs(I_mm(lm,l_m)))
+plot([-L L],[0 0],'-b','LineWidth',1)
+plot([0 0],[-L L],'-b','LineWidth',1)
+hold off
+colormap gray 
+shading flat
+colorbar off
+xlabel('$l/L$','Interpret','Latex')
+ylabel('$l^{\prime}/L$','Interpret','Latex')
+xticks([-1 0 1])
+xticklabels({'-1','0','1'})
+yticks([-1 0 1])
+yticklabels({'-1','0','1'})
+set(gca,'TickLabel','Latex')
+axis equal
+axis([-L L -L L])
+%%
+% exportgraphics(gca,'Image1.png','Resolution',600);
+%%
+R       =   @(l,l_) sqrt((L-(l+l_)).^2+a^2);
+I_pm   	=   @(l,l_) (1-l/L).*(1-l_/L).*exp(-j*k*R(l,l_))./R(l,l_);
+%%
+Ns      =   4e2;
+figure()
+[lp,l_p]  =   meshgrid(linspace(0,L,Ns),linspace(0,L,Ns));
+pcolor(lp,l_p,abs(I_pm(lp,l_p)))
+colormap gray 
+shading flat
+colorbar off
+xlabel('$l/L$','Interpret','Latex')
+ylabel('$l^{\prime}/L$','Interpret','Latex')
+xticks([0 0.5 1])
+xticklabels({'0','0.5','1'})
+yticks([0 0.5 1])
+yticklabels({'0','0.5','1'})
+set(gca,'TickLabel','Latex')
+axis equal
+axis([0 L 0 L])
+%%
+% exportgraphics(gca,'Image2.png','Resolution',600);
+%% Term1 ++/--
+clc;
+L       =   0.01;
+a       =   1e-3;
+func1  	=   @(l) (1/L)*(1-l/L).*(sqrt(l.^2+a^2)-sqrt((L-l).^2+a^2));
+func2  	=   @(l) 0.5*((1-l/L).^2).*(log((sqrt(l.^2+a^2)+l)./(sqrt(l.^2+a^2)-l))+log((sqrt((L-l).^2+a^2)+(L-l))./(sqrt((L-l).^2+a^2)-(L-l))));
+I    	=   -j*k*L^2/(16*pi)+Quad(func1,0,L)/(4*pi)+Quad(func2,0,L)/(4*pi);
+fprintf('%0.2e\t+j\t%0.2e\n',real(I),imag(I))
+R       =   @(l,l_) sqrt((l-l_).^2+a^2);
+func  	=   @(l,l_) (1-l/L).*(1-l_/L).*exp(-j*k*R(l,l_))./R(l,l_);
+I    	=   integral2(func,0,L,0,L)/(4*pi);
+fprintf('%0.2e\t+j\t%0.2e\n',real(I),imag(I))
+%% Term2 ++/--
+clc;
+L       =   0.01;
+a       =   1e-3;
+func1  	=   @(l) 0.5*log((sqrt(l.^2+a^2)+l)./(sqrt(l.^2+a^2)-l));
+func2  	=   @(l) 0.5*log((sqrt((L-l).^2+a^2)+(L-l))./(sqrt((L-l).^2+a^2)-(L-l)));
+I    	=   -j*k*L^2/(4*pi)+Quad(func1,0,L)/(4*pi)+Quad(func2,0,L)/(4*pi);
+fprintf('%0.2e\t+j\t%0.2e\n',real(I),imag(I))
+R       =   @(l,l_) sqrt((l-l_).^2+a^2);
+func  	=   @(l,l_) exp(-j*k*R(l,l_))./R(l,l_);
+I    	=   integral2(func,0,L,0,L)/(4*pi);
+fprintf('%0.2e\t+j\t%0.2e\n',real(I),imag(I))
+%% Term1 +-/-+
+clc;
+L       =   0.01;
+a       =   1e-3;
+func1  	=   @(l) 0.5*log((sqrt(l.^2+a^2)+l)./(sqrt(l.^2+a^2)-l));
+func2  	=   @(l) 0.5*log((sqrt((L-l).^2+a^2)+(L-l))./(sqrt((L-l).^2+a^2)-(L-l)));
+I    	=   -j*k*L^2/(4*pi)+Quad(func1,0,L)/(4*pi)+Quad(func2,0,L)/(4*pi);
+fprintf('%0.2e\t+j\t%0.2e\n',real(I),imag(I))
+R       =   @(l,l_) sqrt((L-(l+l_)).^2+a^2);
+func  	=   @(l,l_) exp(-j*k*R(l,l_))./R(l,l_);
+I    	=   integral2(func,0,L,0,L)/(4*pi);
+fprintf('%0.2e\t+j\t%0.2e\n',real(I),imag(I))
+%% Term2 +-/-+
+clc;
+L       =   0.0001;
+a       =   1e-3;
+% func1  	=   @(l) (0.5/L)*(1-l/L).*l.*(log((sqrt(l.^2+a^2)+l)./(sqrt(l.^2+a^2)-l))+...
+%             log((sqrt((L-l).^2+a^2)+(L-l))./(sqrt((L-l).^2+a^2)-(L-l))));
+% func2   =   @(l) (1-l/L).*(1-2*l/L);
+func1  	=   @(l) (1/L)*(1-l/L).*(sqrt(l.^2+a^2)+sqrt((L-l).^2+a^2));
+func2  	=   @(l) (0.5/L)*(1-l/L).*l.*(-log((sqrt(l.^2+a^2)+l)./(sqrt(l.^2+a^2)-l))+log((sqrt((L-l).^2+a^2)+(L-l))./(sqrt((L-l).^2+a^2)-(L-l))));
+I    	=   -j*k*L^2/(16*pi)+Quad(func1,0,L)/(4*pi)+Quad(func2,0,L)/(4*pi);
+fprintf('%0.2e\t+j\t%0.2e\n',real(I),imag(I))
+R       =   @(l,l_) sqrt((L-(l+l_)).^2+a^2);
+func  	=   @(l,l_) (1-l/L).*(1-l_/L).*exp(-j*k*R(l,l_))./R(l,l_);
+I    	=   integral2(func,0,L,0,L)/(4*pi);
+fprintf('%0.2e\t+j\t%0.2e\n',real(I),imag(I))
+%%
+
