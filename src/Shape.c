@@ -450,6 +450,7 @@ void createBiconicalAntenna(double h1, double h2, double h3, double S,
   fprintf(file, "v5 = msh.Vertex( %21.14E, %21.14E, %21.14E)\n", 0.0, 0.0, -h1-h2);
   fprintf(file, "v6 = msh.Vertex( %21.14E, %21.14E, %21.14E)\n", 0.0, 0.0, -h1-h2-h3);
   double dtheta=2.0*M_PI/N;
+  fprintf(file, "# Define lines\n");
   fprintf(file, "Lines = []\n");
   fprintf(file, "Lines.append(msh.Line(v4, v1, 1, delta/3.0))\n");
   fprintf(file, "Lines.append(msh.Line(v1, v2, 0, delta))\n");
@@ -474,7 +475,6 @@ void createBiconicalAntenna(double h1, double h2, double h3, double S,
     //   fprintf(file, "Lines.append(msh.Line(v5, v%d, 0, delta))\n", count);
     // }
   }
-  fprintf(file, "# Define lines\n");
   fprintf(file, "# Define shape\n");
   fprintf(file, "Shape1 = msh.Shape(Lines)\n");
   fprintf(file, "# Create mesh\n");
