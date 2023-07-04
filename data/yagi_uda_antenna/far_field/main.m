@@ -1,0 +1,1 @@
+close all; clear; clc;%%Data = load('Data1.dat');plot(Data(:,1), Data(:,2))ylim([-40 0])%%
