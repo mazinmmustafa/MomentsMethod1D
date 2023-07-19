@@ -129,7 +129,7 @@ figures:
 # Debug
 .PHONY: valgrind
 valgrind:
-	valgrind ./$(BDIR)/$(EXE) --leak-check=full
+	valgrind --leak-check=full ./$(BDIR)/$(EXE) 
 
 # Include Dependencies
 -include $(CDEP) $(CXXDEP)
