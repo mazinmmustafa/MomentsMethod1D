@@ -19,8 +19,10 @@ void Matrix::allocate(const int rows, const int cols){
     this->matrix_size.rows = rows;
     this->matrix_size.cols = cols;
     this->data = (cmplx**)calloc(rows, sizeof(cmplx*));
+	assert(this->data!=NULL);
     for (int i=0; i<rows; i++){
         this->data[i] = (cmplx*)calloc(cols, sizeof(cmplx));
+		assert(this->data[i]!=NULL);
     }
     this->is_allocated = TRUE;
     Matrix::zeros();
@@ -157,8 +159,10 @@ void Matrix::lup(){
     int N=this->matrix_size.cols;
     check_error(M!=N, "matrix is not square!");
     this->lu_data = (cmplx**)calloc(N, sizeof(cmplx*));
+	assert(this->lu_data!=NULL);
     for (int i=0; i<N; i++){
         this->lu_data[i] = (cmplx*)calloc(N, sizeof(cmplx));
+		assert(this->lu_data[i]!=NULL);
     }
     for (int i=0; i<N; i++){
         for (int j=0; j<N; j++){
@@ -170,6 +174,7 @@ void Matrix::lup(){
     int i_max, i_temp; 
     double max_element, abs_element;
     this->P_data=(int*)calloc((N+1), sizeof(int));
+	assert(this->P_data!=NULL);
     for (int i=0; i<=N; i++){
         P_data[i]=i;
     }

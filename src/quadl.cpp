@@ -22,7 +22,9 @@ void QuadL::set(const int N_quadl, const double tol, const int k_max){
     this->tol = tol;
     this->k_max = k_max;
     this->x = (double*)calloc(N_quadl, sizeof(double));
+	assert(this->x!=NULL);
     this->w = (double*)calloc(N_quadl, sizeof(double));
+	assert(this->w!=NULL);
     int rule=1;
     cgqf_f77_(&rule, &(this->N_quadl), this->x, this->w);
     this->is_set = TRUE;

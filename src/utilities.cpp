@@ -99,7 +99,9 @@ void File::open(const char *filename, const char *option){
     check_error(!(!strcmp(option, "w")||!strcmp(option, "a")||!strcmp(option, "r")), 
         "invalid file option !");
     this->filename = (char*)calloc(filename_len+1, sizeof(char));
+	assert(this->filename!=NULL);
     this->option = (char*)calloc(2, sizeof(char));
+	assert(this->option!=NULL);
     assert(strcpy(this->filename, filename));
     assert(strcpy(this->option, option));
     this->file_ptr=fopen(this->filename, this->option);
@@ -207,6 +209,7 @@ void Range::linspace(const double x_min, const double x_max, const int Ns){
     check_error(Ns<1, "invalid number of points!");
     this->Ns = Ns;
     this->data = (double*)calloc(Ns, sizeof(double));
+	assert(this->data!=NULL);
     double dx=(x_max-x_min)/(Ns-1.0);
     for (int i=0; i<Ns; i++){
         this->data[i] = x_min+i*dx;
@@ -220,6 +223,7 @@ void Range::logspace(const double x_min, const double x_max, const int Ns){
     check_error(Ns<1, "invalid number of points!");
     this->Ns = Ns;
     this->data = (double*)calloc(Ns, sizeof(double));
+	assert(this->data!=NULL);
     double X_min=log10(x_min);
     double X_max=log10(x_max);
     double dX=(X_max-X_min)/(Ns-1.0);

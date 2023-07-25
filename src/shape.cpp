@@ -50,6 +50,7 @@ void Shape::allocate(){
     file.close();
     file.open("mesh/bases_info.txt", "r");
     this->bases_list = (Basis*)calloc(this->N_bases, sizeof(Basis));
+	assert(this->bases_list!=NULL);
     for (int i=0; i<this->N_bases; i++){
         Basis basis;
         file.read("%lf %lf %lf", &basis.r_m.x, &basis.r_m.y, &basis.r_m.z);
